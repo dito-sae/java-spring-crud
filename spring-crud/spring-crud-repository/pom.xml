@@ -11,5 +11,17 @@
 
     <artifactId>spring-crud-repository</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.trycode</groupId>
+            <artifactId>spring-crud-entity</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.trycode</groupId>
+            <artifactId>spring-crud-properties</artifactId>
+            <version>${project.parent.version}</version>
+        </dependency>
+    </dependencies>
 
 </project>
