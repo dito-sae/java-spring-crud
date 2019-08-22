@@ -15,12 +15,12 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring-crud-entity</module>
-        <module>spring-crud-controller</module>
         <module>spring-crud-repository</module>
         <module>spring-crud-service</module>
         <module>spring-crud-validation</module>
         <module>spring-crud-web</module>
         <module>spring-crud-properties</module>
+        <module>spring-crud-model</module>
     </modules>
 
     <name>spring-crud</name>
